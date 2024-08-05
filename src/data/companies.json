@@ -1,0 +1,72 @@
+{
+    "AmericaDoNorte": [
+      {
+        "nome": "Apple",
+        "pais": "Estados Unidos",
+        "setor": "Tecnologia",
+        "receitaAnual": "394.3 bilhões USD",
+        "numeroDeEmpregados": "154,000"
+      },
+      {
+        "nome": "Microsoft",
+        "pais": "Estados Unidos",
+        "setor": "Tecnologia",
+        "receitaAnual": "168.1 bilhões USD",
+        "numeroDeEmpregados": "221,000"
+      },
+      {
+        "nome": "Amazon",
+        "pais": "Estados Unidos",
+        "setor": "Comércio Eletrônico",
+        "receitaAnual": "469.8 bilhões USD",
+        "numeroDeEmpregados": "1,608,000"
+      }
+    ],
+    "AmericaCentral": [
+      {
+        "nome": "América Móvil",
+        "pais": "México",
+        "setor": "Telecomunicações",
+        "receitaAnual": "49.7 bilhões USD",
+        "numeroDeEmpregados": "181,000"
+      },
+      {
+        "nome": "CEMEX",
+        "pais": "México",
+        "setor": "Materiais de Construção",
+        "receitaAnual": "14.5 bilhões USD",
+        "numeroDeEmpregados": "41,000"
+      },
+      {
+        "nome": "Grupo Bimbo",
+        "pais": "México",
+        "setor": "Alimentos",
+        "receitaAnual": "15.8 bilhões USD",
+        "numeroDeEmpregados": "139,000"
+      }
+    ],
+    "AmericaDoSul": [
+      {
+        "nome": "Petrobras",
+        "pais": "Brasil",
+        "setor": "Petróleo e Gás",
+        "receitaAnual": "82.2 bilhões USD",
+        "numeroDeEmpregados": "45,532"
+      },
+      {
+        "nome": "Vale",
+        "pais": "Brasil",
+        "setor": "Mineração",
+        "receitaAnual": "40.1 bilhões USD",
+        "numeroDeEmpregados": "74,000"
+      },
+      {
+        "nome": "Itaú Unibanco",
+        "pais": "Brasil",
+        "setor": "Serviços Financeiros",
+        "receitaAnual": "29.9 bilhões USD",
+        "numeroDeEmpregados": "99,307"
+      }
+    ]
+  }
+  

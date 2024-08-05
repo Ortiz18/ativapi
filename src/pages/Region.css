@@ -1,0 +1,40 @@
+.region {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .region h2 {
+    margin-bottom: 20px;
+  }
+  
+  .company-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .company-card {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .company-card h3 {
+    margin-top: 0;
+  }
+  
+  .company-card p {
+    margin: 8px 0;
+    color: #000;
+  }
+  
+  .company-card p strong {
+    color: #1976d2;
+  }
+  
